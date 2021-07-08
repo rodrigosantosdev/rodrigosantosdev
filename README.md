@@ -6,14 +6,8 @@
 ## Olá 👋
 
 Estou estudando sobre desenvolvedor Front-End com:
-- JavaScript
-- Node.js
-- ReactJS
-- Nextjs
-- Vuejs
-- Html
-- Css
-- Scss
+- JavaScript - Node.js - ReactJS - Nextjs - Vuejs
+- Html - Css - Scss - Figma
 
 Aqui no github você pode ver todos os projetos que construí.
 
